@@ -1,0 +1,30 @@
+University Module Name: Operating Systems
+Project Name: Scripts and Automation Tool Development (Software Artefact)
+
+Project Specification:
+
+Write Bash Scripts to command the Operating System for a Linux machine. 
+Bash scripts are written to perform operations on Linux OS.
+
+The Administrative tasks that are to be automated relates to:
+
+- User and Group Management
+- File Management Script
+- Resource Monitoring Script
+- Process Management Script
+- Backup and Recovery Script
+- Performance Reporting Script
+
+These scripts are written in Bash and are integrated with Python3 to
+automate the tasks provided with a User Interface.
+
+Conclusion:
+
+These exercise/project explores how Bash Scripts can be used to automate tasks onto a Linux Machine to 
+perform administrative tasks. Python3 is used to combine all scripts and also to provide a menu user interface 
+for the administrator.
+
+I encounter problems, since the project was done into a virtual machine instead of a real linux machine, tkinter 
+and flask had problems running in Linux VMs , the user interface couldve been develoepd using these web development frameworks
+to provide a more suitable User Interface. The file userInterface.html briefly shows an adequate representation of the user interface intended for
+the Automation Development Project.
